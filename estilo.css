@@ -41,7 +41,7 @@ button{
 
 #container-entrada{
     margin-top: 200px;
-    margin-left: 145px;
+    margin-left: 60px;
 }
 
 
@@ -109,6 +109,7 @@ div #conteudo{
     margin-top: 200px;
     flex: 0.6 1 10%;
     justify-content: center;
+    margin-rigth: 120px
 }
 
 #conteudo{
