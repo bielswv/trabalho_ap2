@@ -20,20 +20,10 @@ h1{
   font-weight: normal;
 }
 @media screen and (max-width: 768px) {
-    /* Seu CSS para telas menores aqui */
-    body {
-        flex-direction: column;
-    }
-
-    #container-entrada, #fake-form {
-        width: 100%;
-        padding: 0 20px;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
+  /* Seu CSS para telas menores aqui */
+  body {
+      flex-direction: column;
+  }
 }
 
 
