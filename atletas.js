@@ -35,8 +35,8 @@ function cria_jogador(jogadores){
         const card=document.createElement('div')
         card.className='card'
         const img=document.createElement('img')
-        const nome=document.createElement('nome')
-        const posicao=document.createElement('posicao')
+        const nome=document.createElement('h3')
+        const posicao=document.createElement('h2')
 
         img.src=jogador.imagem
         card.appendChild(img)
